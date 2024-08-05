@@ -3,6 +3,14 @@
 ### [Backjoon Online Judge](https://www.acmicpc.net/) Rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joohop)](https://solved.ac/joohop)
 
+### Status Badges
+
+### Status Badges
+
+![seoweed's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoweed&show_icons=true&icon_color=FFD1CF&text_color=484647&title_color=FF7DA4&custom_title=Github%20Status) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoweed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
