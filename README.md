@@ -5,8 +5,7 @@
 
 
 ### Status Badges
-
-![seoweed's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoweed&show_icons=true&icon_color=FFD1CF&text_color=484647&title_color=FF7DA4&custom_title=Github%20Status) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoweed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![seoweed's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoweed&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoweed&layout=compact&theme=tokyonight)
 
 
 <!--내용 부분-->
